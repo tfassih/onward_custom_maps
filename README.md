@@ -16,4 +16,4 @@
 - No cutscenes, non-player-controlled camera movement, or third-person POV 
 - All textures must be PBR format and be properly mapped to their respective objects
 - No advertising of any sort
-- Racist/Nazi/insertShitbagGroupHere will result in a drone strike being accidentally called on your position, on purpose. I will <s>take your scalp</s> dox you
+- Racist/Nazi/insertShitbagGroupHere shite will result in a drone strike being accidentally called on your position, on purpose. I will <s>take your scalp</s> dox you
